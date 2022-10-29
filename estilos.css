@@ -1,0 +1,17 @@
+body {
+    background-image: url(/img/fondo.jpg);
+}
+
+h1 {
+    color: white;
+    font-family: 'Fasthand', cursive;
+    font-size: 7em;
+}
+p {
+    text-align: center;
+    font-size: 3.5em;
+    color: #D9CBBA;
+    -webkit-text-stroke: 1px #435159;
+    font-family: 'Fasthand', cursive;
+
+}
